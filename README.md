@@ -1,6 +1,6 @@
-# Ignite React - Challenge 01
+# Ignite React - Chapter 01: Challenge 01
 
-React and Javascript concepts.
+React concepts.
 
 ### [Challenge guideline](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
 
